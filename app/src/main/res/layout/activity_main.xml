@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Insira seu nome" />
+        android:text="Insira seu nome:" />
 
     <EditText
         android:id="@+id/txtNome"
@@ -74,7 +74,7 @@
         android:id="@+id/ckbEstudar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Estudarr" />
+        android:text="Estudar" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -84,7 +84,8 @@
     <Spinner
         android:id="@+id/spnEstados"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:entries="@array/estado"/>
 
     <Button
         android:id="@+id/btnEntrar"
