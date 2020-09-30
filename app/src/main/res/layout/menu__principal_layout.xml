@@ -26,7 +26,6 @@
                 android:layout_height="180dp"
                 android:layout_marginLeft="5dp"
                 android:background="@drawable/cor_fundo"
-                android:onClick="abrir_Historia"
                 android:src="@drawable/tony_stark" />
 
             <TextView
@@ -52,7 +51,6 @@
                 android:layout_height="180dp"
                 android:layout_marginLeft="5dp"
                 android:background="@drawable/cor_fundo"
-                android:onClick="abrir_Armaduras"
                 android:src="@drawable/icon_iron" />
 
             <TextView
@@ -86,7 +84,6 @@
                 android:layout_height="180dp"
                 android:layout_marginLeft="5dp"
                 android:background="@drawable/cor_fundo"
-                android:onClick="abrir_Jarvis"
                 android:src="@drawable/jarvis" />
 
             <TextView
@@ -112,7 +109,6 @@
                 android:layout_height="180dp"
                 android:layout_marginLeft="5dp"
                 android:background="@drawable/cor_fundo"
-                android:onClick="abrir_Pepper"
                 android:src="@drawable/peppers" />
 
             <TextView
@@ -146,7 +142,6 @@
                 android:layout_height="180dp"
                 android:layout_marginLeft="5dp"
                 android:background="@drawable/cor_fundo"
-                android:onClick="abrir_EmpresaS"
                 android:src="@drawable/empresa_icon" />
 
             <TextView
@@ -177,7 +172,6 @@
                 android:id="@+id/imb_Vingadores"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:onClick="abrir_Vingadores"
                 android:text="Vingadores"
                 android:textColor="#000"
                 android:textSize="20dp"
