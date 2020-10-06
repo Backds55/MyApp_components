@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Vingadores_Activity"></activity>
+        <activity android:name=".GArqueiro_Activity"></activity>
+        <activity android:name=".VNegra_Activity" />
+        <activity android:name=".Hulk_Activity" />
+        <activity android:name=".HFerro_Activity" />
+        <activity android:name=".CAmerica_Activity" />
+        <activity android:name=".Vingadores_Activity" />
         <activity android:name=".Empresa_Activity" />
         <activity android:name=".Peppers_Activity" />
         <activity android:name=".Jarvis_Activity" />
